@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Juan Castel
-- 👀 I’m interested in become a future software developer
-- 🌱 I’m currently learning as much as I can to be a full-stack software developer.
-- 💞️ I’m looking to collaborate on other contents creators.
+- software developer
 - 📫 How to reach me : castel.davila@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuampi&show_icons=true&theme=radical)
